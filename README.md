@@ -1,5 +1,3 @@
-# 📄 README.md
-
 # MLOps with Docker
 
 This repository demonstrates how to containerize a simple Machine Learning (ML) application using Docker, aligning with MLOps best practices.
